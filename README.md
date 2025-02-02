@@ -1,1 +1,1 @@
-# git-lect
+This is my first git repository
